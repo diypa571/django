@@ -1,0 +1,9 @@
+diypa571@diypa:~$ sudo apt install python3
+diypa571@diypa:~$ sudo apt install python3-pip
+diypa571@diypa:~$ pip3 install Django
+diypa571@diypa:~$ sudo apt install python3-django
+
+diypa571@diypa:~$ django-admin --version
+3.2.11
+For creating a project..
+diypa571@diypa:~$ sudo django-admin startproject projectdemoapp
